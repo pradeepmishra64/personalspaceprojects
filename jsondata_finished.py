@@ -1,6 +1,5 @@
 #
 # Example file for parsing and processing JSON
-# LinkedIn Learning Python course by Joe Marini
 #
 
 
